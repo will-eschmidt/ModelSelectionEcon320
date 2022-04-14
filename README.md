@@ -1,4 +1,5 @@
 # An Introduction to Model Selection for Econometrics
-Module detailing an introduction to matrix algebra, an introduction into what motivates model selection in emperics and applied techniques, and how one might implement them in Python. 
+Module detailing an introduction to matrix algebra, an introduction into what motivates model selection in emperics and applied techniques, and how one might implement them in Python. Foundational Econometrics, especially if you proceed beyond your undergraduate education relies heavily on the use of matricies. As a part of the lab portion, students work with matricies everytime they import a dataset into their worksapce, but many do not understand what is going on behind the scenes. The first part of this module - module 0 - is an attempt to give students a greater and more thorough understanding of matricies and introduce them to matrix notation in the context of econometrics by converting the formulas we see in class to matrix form. 
+Module 1 is an introduction to the importance and motivation of model selection. Module 2 is an introduction to several methods commonly used in model selection and classification, including Support Vector Machines, decision trees, Random Forests, Elastic Nets, Ridge and Lasso regressions and so on. These techniques are increasingly useful in a job market defined by the use of big data (k > n) and academic economics.
 This module is designed for an Undergraduate introductory Econometrics class. 
-It will be updated continuesly with R code, Julia code, and Stata code in the future. 
+
